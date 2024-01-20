@@ -43,6 +43,4 @@ Leider gibt es über *Automator* auf dem Mac oder *Kurzbefehle (Shortcuts)* auf 
 
 Das komplette fertige Script hier auf GitHub herunterladen: [https://github.com/Tabellendoktor/AppleScript-Notes-export-as-PDF/raw/main/Alle%20Erinnerungen%20aus%20einem%20Ordner%20als%20PDF%20exportieren.scpt](https://github.com/Tabellendoktor/AppleScript-Notes-export-as-PDF/raw/main/Alle%20Erinnerungen%20aus%20einem%20Ordner%20als%20PDF%20exportieren.scpt)
 
-TabellenDoktor? Das ist (mein) Projekt zu Tipps und Vorlagen für Excel und Numbers sowie zu SQL und ERM: [https://www.tabellendoktor.de/](https://www.tabellendoktor.de/)
-
 #Mac
